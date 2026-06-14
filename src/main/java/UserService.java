@@ -16,6 +16,14 @@ class UserService {
     }
     private String password;
     private String cellPhoneNumber;
+
+    boolean checkUserName(String kyl_1) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    boolean checkPasswordComplexity(String chsecke99) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     class User {
     private String username;
